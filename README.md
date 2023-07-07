@@ -1,6 +1,6 @@
-# React Vite Boilerplate
+# React TS Vite Boilerplate
 
-This is a boilerplate for building modern web applications with React, Vite, ESLint, Prettier, and Tailwind CSS. It also has TypeScript paths in place.
+This is a boilerplate for building modern web applications with React, TypeScript, Vite, ESLint, Prettier, and Tailwind CSS.
 
 ## Installation
 
