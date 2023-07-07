@@ -16,7 +16,7 @@ This is a boilerplate for building modern web applications with React, Vite, ESL
    - If using npm: `npm run dev`
    - If using Yarn: `yarn dev`
    - If using PNPM: `pnpm dev`
-2. Open [http://localhost:3000](http://localhost:3000) in your browser.
+2. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Contributing
 
