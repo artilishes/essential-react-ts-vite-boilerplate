@@ -2,6 +2,14 @@
 
 This is a boilerplate for building modern web applications with React, TypeScript, Vite, ESLint, Prettier, and Tailwind CSS.
 
+## Features
+
+- Uses TypeScript for type checking and better code organization
+- Uses Vite for fast development server and build tool
+- Uses ESLint and Prettier for code style consistency and error checking
+- Uses Tailwind CSS for easy and customizable styling
+- Has TypeScript paths in place for easier imports
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/username/repo-name.git`
