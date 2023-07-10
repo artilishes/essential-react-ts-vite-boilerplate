@@ -12,7 +12,7 @@ This is a boilerplate for building modern web applications with React, TypeScrip
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo-name.git`
+1. Clone the repository: `git clone https://github.com/artilishes/arthur-codes.git`
 2. Install dependencies:
    - If using npm: `npm install`
    - If using Yarn: `yarn install`
